@@ -1,0 +1,6 @@
+//20 vídeos - AngularJS tutorial for beginners
+https://www.youtube.com/playlist?list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl
+
+//START
+https://www.youtube.com/watch?v=zKkUN-mJtPQ&list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl&index=1
+https://www.youtube.com/watch?v=gWmOKmgnQkU&list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl&index=2 00:40
